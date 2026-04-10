@@ -132,7 +132,7 @@ Shows:
 
 ### 3. Allowed Ping
 
-![Ping Success](images/pingsuccess.png)
+![Ping Success](images/ping-success.png)
 
 Successful ping between h2 and h3.
 
@@ -140,7 +140,7 @@ Successful ping between h2 and h3.
 
 ### 4. Blocked Ping
 
-![Ping Blocked](images/pingblocked.png)
+![Ping Blocked](images/ping-blocked.png)
 
 Ping failure between h1 and h4 due to firewall rule.
 
